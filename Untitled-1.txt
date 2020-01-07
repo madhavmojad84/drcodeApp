@@ -1,0 +1,6 @@
+git@
+git remote set-url origin @github.com:alaminprogramerr/drcode.git
+
+
+git remote set-url origin https://github.com/alaminprogramerr/drcode.git
+
